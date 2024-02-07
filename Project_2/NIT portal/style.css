@@ -1,0 +1,99 @@
+img {
+width: 100px;
+height: 100px;
+
+}
+.HomeHeading{
+	display: flex;
+	gap: 30px;
+	justify-content: center;
+	place-items: center;
+	background-color: pink;
+}
+h1{ color: black;
+	font-size: 50px;
+}
+.HomeHeading{
+	text-align: center;
+}
+u1 { 
+	display:block;
+	list-style-type:none;
+	gap: 20px;
+	background-color: black;
+	padding: 20px 30px}
+	li {
+		float: left;
+		border-right: 1px solid white;
+	}
+	li a{
+		padding: 10px 50px;
+		color: orange;
+		text-decoration: none;
+	  }
+body{ 
+	background-image: url("https://e1.pxfuel.com/desktop-wallpaper/159/14/desktop-wallpaper-plain-backgrounds-group-with-19-items-plain-backgrounds-in-different-colours.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.image1 img{
+	width: 200px;
+	height: 200px;
+	
+}
+.image1 { margin: 20px;
+	background-color: black;
+	display: inline-block;
+	justify-content: space-evenly;
+	margin: 25PX;
+	padding: 20px;
+}
+.container { 
+	display: flex;
+  justify-content: center;
+  align-items: center;
+	background-color: #a3ecc2;	
+}
+.content img {
+	width: 200px;
+	height: 200px;
+}
+.content {
+	display: flow-root;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+	background-color:  rgb(253, 255, 112);
+}
+		button {
+			color: #fdf6f6;
+			background-color: #6bf70e;
+			font-size: 15px;
+			border: 1px solid #03030300;
+			border-radius: 30px;
+			padding: 15px 50px;
+			cursor: pointer
+		}
+		button:hover {
+			color: #d84b4b;
+			background-color: #1a3ff9;
+		}
+.image2 img{
+	width: 300px;
+	height: 300px;
+	
+}
+.image2 { margin: 20px;
+	background-color: #7f74c7;
+	display: inline-block;
+	justify-content: space-evenly;
+	margin: 50PX;
+	padding: 25px;
+}
+.container { 
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e9e7f7b6;
+}
